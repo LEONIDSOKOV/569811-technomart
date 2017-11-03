@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Leonid Sokov](https://up.htmlacademy.ru/htmlcss/19/user/569811).
-* Наставник: `Неизвестно`.
+* Наставник: [Kudin Roman](https://htmlacademy.ru/profile/id243399) .
 
 ---
 
